@@ -1,0 +1,10 @@
+{
+    "project": "Encouragement",
+    "tag": [
+        "GivingHope"
+    ],    
+    "policies": [
+        "policy1",
+        "policy2"
+    ]
+}
